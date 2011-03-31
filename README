@@ -3,3 +3,10 @@ This is a quick and dirty ruby script to swap the current window to the other sc
 Required packages in ubuntu:
 * ruby
 * xdotool
+* nvidia-xconfig
+
+TODO: 
+* This only works with a specific style of NVIDIA setups
+*   screen_width method needs to be more universal
+
+This is based on this discussion: http://ubuntuforums.org/showthread.php?t=1414155
